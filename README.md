@@ -25,5 +25,5 @@ Aby zbudować projekt należy posiadać:
 Z założenia, stworzona biblioteka ma konwertować (wyświetlać) zdjęcia przu pomocy standardowego wyścia 
 (w terminalu). Aby tego dokonać, należy grafikę analizować piksel po pikselu oraz znaleźć znak ASCII najlepiej odpowiadający danemu fragmentowi obazu. W tym celu mogą zostać użyty poniżej zamieszczony zestaw:\
 
-![plot](example_pixels.png)
+![plot](example_pixels(1).png)
 
